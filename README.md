@@ -111,8 +111,13 @@ In reviewing all six models, the EasyEnsembleClassifer model yielded the best re
 ### Ranking of models in descending order based on "High Risk" results:
 
 EasyEnsembleClassifer: 93.2% accuracy, 9% precision, 92% recall, and 16% F1 Score
+
 BalancedRandomForestClassifer: 78.9% accuracy, 3% precision, 70% recall and 6% F1 Score
+
 SMOTE: 65.2% accuracy, 1% precision, 61% recall and 2% F1 Score
+
 SMOTEENN: 64.5% accuracy, 1% precision, 72% recall and 2% F1 Score
+
 RandomOverSampler: 64.0% accuracy, 1% precision, 66% recall and 2% F1 Score
+
 ClusterCentroids: 54.5% accuracy, 1% precision, 69% recall and 1% F1 Score
